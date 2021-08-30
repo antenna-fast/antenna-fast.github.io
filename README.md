@@ -5,7 +5,7 @@ My name is Liu Yaohua, currently a student in University of Chinese Academic of 
 # EDUCATION
 
 Master Degree @ University of Chinese Academic of Sicence
-* 
+* GPA:
 
 Bachelor Degree @ Qingdao University of Sicence & Technology [2015 - 2019]
 * GPA: 3.1/4.0 (Top20) 
