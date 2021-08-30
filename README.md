@@ -4,12 +4,22 @@ My name is Liu Yaohua, currently a student in University of Chinese Academic of 
 
 # EDUCATION
 
-## Received Bachelor Degree as Qingdao University of Sicence and technology [2015 - 2019]
+Master Degree @ University of Chinese Academic of Sicence
+* 
+
+Bachelor Degree @ Qingdao University of Sicence & Technology [2015 - 2019]
 * GPA: 3.1/4.0 (Top20) 
-* Honors/Awards:
+* Honors/Awards: 
 
 
 # PUBLICATION
+* 
+
+# RESEARCH EXPERIENCE
+* Robot R&D
+* Point cloud based object 6DoF pose estimation for robot Bin-Packing
+
 
 # INTERNSHIP EXPERIENCE
-
+* Aibee Beijing 2021.6 - 2021.9
+  Algorithm department, using Graph Convolution Network(GCN) to solve Multi-Object-Tracking(MOT) task.
