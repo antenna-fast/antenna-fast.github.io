@@ -1,5 +1,9 @@
 # PROFILE
-My name is Liu Yaohua, currently a student in University of Chinese Academic of Sicence. I'm major in Computer Vision and Machine Learning.
+My name is Liu Yaohua, currently a student in University of Chinese Academic of Sicence. I'm major in 
+* Artificial Intelligence / Deep Learning / Machine Learning
+* 3D Computer Vision
+* Control Algorithms
+* Robotics 
 
 
 # EDUCATION
@@ -13,10 +17,11 @@ Bachelor Degree @ Qingdao University of Sicence & Technology [2015 - 2019]
 
 
 # PUBLICATION
-* 
+* CAD&CG CCF A level [EI Index]
 
 # RESEARCH EXPERIENCE
-* Robot R&D
+
+
 * Point cloud based object 6DoF pose estimation for robot Bin-Packing
 
 
