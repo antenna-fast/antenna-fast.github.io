@@ -26,5 +26,5 @@ Bachelor Degree @ Qingdao University of Sicence & Technology (QUST China)[2015 -
 
 
 # INTERNSHIP EXPERIENCE
-* Aibee Beijing 2021
+* Aibee Inc. Beijing 2021
   Algorithm department, using Graph Convolution Network(GCN) to solve Multi-Object-Tracking(MOT) task.
