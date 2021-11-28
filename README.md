@@ -8,11 +8,10 @@ My name is Liu Yaohua, currently a student in University of Chinese Academic of 
 
 # EDUCATION
 
-Master Degree @ University of Chinese Academic of Sicence(UCAS China) [2019-2022]
+Master Degree @ University of Chinese Academic of Sicence - Shenyang Institute of Automation (UCAS/CAS-SIA China) [2019-2022]
 
 
-Bachelor Degree @ Qingdao University of Sicence & Technology (QUST China)[2015 - 2019]
-* GPA: 3.1/4.0 (Top20)   
+Bachelor Degree @ Qingdao University of Sicence & Technology (QUST China) [2015 - 2019]   
 * Honors/Awards: 
 
 
